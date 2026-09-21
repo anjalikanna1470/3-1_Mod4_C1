@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">mod4-case1</string>
+    <string name="hint_input">Enter text to process...</string>
+    <string name="btn_run_pipeline">Run Pipeline</string>
+    <string name="label_summary">Summary:</string>
+    <string name="label_classification">Classification:</string>
+    <string name="label_rewritten">Rewritten:</string>
+    <string name="placeholder_dash">--</string>
+    <string name="loading">Processing...</string>
+    <string name="error">Error</string>
+    <string name="empty_input_warning">Please enter text</string>
+</resources>
